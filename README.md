@@ -1,6 +1,6 @@
 <h1 align="center"> 🙂 Hello!!!👋 🙂 </h1>
 
-<h2 align="center">  🤡 Frontend Language & Library 🤡 </h2>
+<h2 align="center">  🤡🤡🤡 Frontend 🤡🤡🤡 </h2>
 
 <h3 align="center"> 😟 Learning Working 😟 </h3>
 
