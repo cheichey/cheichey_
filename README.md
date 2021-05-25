@@ -10,7 +10,7 @@
 <a><img src="https://img.shields.io/badge/-TypeScript-3294a8.svg?logo=TypeScript&style=popout-square"></a>
 </p>
 
-<h3 align="center"> 🤧 Editor 🤧 </h3>
+<h3 align="center"> 🤧 Editors 🤧 </h3>
 
 <p align="center">
 <a><img src="https://img.shields.io/badge/-WebStorm-3294a8.svg?logo=WebStorm&style=popout-square"></a>
