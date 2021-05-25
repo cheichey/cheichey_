@@ -1,6 +1,6 @@
 # 🙂 Hello 🙂
 
-##  🤡 Frontend Language & Libraly 🤡
+##  🤡 Frontend Language & Library 🤡
 
 ### 😟 Learning Working 😟
 
