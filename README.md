@@ -4,24 +4,24 @@
 
 ### 😟 Learning Working 😟
 
-<img src="https://img.shields.io/badge/-React-3294a8.svg?logo=React&style=popout-square">
-<img src="https://img.shields.io/badge/-JavaScript-3294a8.svg?logo=JavaScript&style=popout-square">
-<img src="https://img.shields.io/badge/-TypeScript-3294a8.svg?logo=TypeScript&style=popout-square">
+<a><img src="https://img.shields.io/badge/-React-3294a8.svg?logo=React&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-JavaScript-3294a8.svg?logo=JavaScript&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-TypeScript-3294a8.svg?logo=TypeScript&style=popout-square"></a>
 
 
 ### 🤧 Editor 🤧
 
-<img src="https://img.shields.io/badge/-WebStorm-3294a8.svg?logo=WebStorm&style=popout-square">
-<img src="https://img.shields.io/badge/-VSCode-3294a8.svg?logo=Visual%20Studio%20Code&style=popout-square">
+<a><img src="https://img.shields.io/badge/-WebStorm-3294a8.svg?logo=WebStorm&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-VSCode-3294a8.svg?logo=Visual%20Studio%20Code&style=popout-square"></a>
 
 ### 🧐 Tools 🧐
 
-<img src="https://img.shields.io/badge/-ESlint-3294a8.svg?logo=ESLint&style=popout-square">
-<img src="https://img.shields.io/badge/-Babel-3294a8.svg?logo=Babel&style=popout-square">
-<img src="https://img.shields.io/badge/-Prettier-3294a8.svg?logo=Prettier&style=popout-square">
-<img src="https://img.shields.io/badge/-Material%20UI-3294a8.svg?logo=Material%20UI&style=popout-square">
-<img src="https://img.shields.io/badge/-Bootstrap-3294a8.svg?logo=Bootstrap&style=popout-square">
-<img src="https://img.shields.io/badge/-Webpack-3294a8.svg?logo=Webpack&style=popout-square">
+<a><img src="https://img.shields.io/badge/-ESlint-3294a8.svg?logo=ESLint&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Babel-3294a8.svg?logo=Babel&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Prettier-3294a8.svg?logo=Prettier&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Material%20UI-3294a8.svg?logo=Material%20UI&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Bootstrap-3294a8.svg?logo=Bootstrap&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Webpack-3294a8.svg?logo=Webpack&style=popout-square"></a>
 
 
 ### 😺 Links 😺
