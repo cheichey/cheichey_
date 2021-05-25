@@ -17,7 +17,7 @@
 <a><img src="https://img.shields.io/badge/-VSCode-3294a8.svg?logo=Visual%20Studio%20Code&style=popout-square"></a>
 </p>
 
-<h3 align="center"> 🧐 Tools 🧐
+<h3 align="center"> 🧐 Tools 🧐 </h3>
 
 <p align="center">
 <a><img src="https://img.shields.io/badge/-ESlint-3294a8.svg?logo=ESLint&style=popout-square"></a>
