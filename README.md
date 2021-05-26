@@ -1,6 +1,6 @@
 <h1 align="center"> 🙂 Hello!!!👋 🙂 </h1>
 
-<h2 align="center">  🤡🤡🤡 Frontend 🤡🤡🤡 </h2>
+<h2 align="center">  🤡🤡🤡Frontend and etc...🤡🤡🤡 </h2>
 
 <h3 align="center"> 😟 Learning Working 😟 </h3>
 
@@ -8,6 +8,8 @@
 <a><img src="https://img.shields.io/badge/-React-3294a8.svg?logo=React&style=popout-square"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-3294a8.svg?logo=JavaScript&style=popout-square"></a>
 <a><img src="https://img.shields.io/badge/-TypeScript-3294a8.svg?logo=TypeScript&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Python-3294a8.svg?logo=Python&style=popout-square"></a>
+  <a><img src="https://img.shields.io/badge/-Selenium-3294a8.svg?logo=Selenium&style=popout-square"></a>
 </p>
 
 <h3 align="center"> 🤧 Editors 🤧 </h3>
@@ -15,6 +17,7 @@
 <p align="center">
 <a><img src="https://img.shields.io/badge/-WebStorm-3294a8.svg?logo=WebStorm&style=popout-square"></a>
 <a><img src="https://img.shields.io/badge/-VSCode-3294a8.svg?logo=Visual%20Studio%20Code&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Pycharm-3294a8.svg?logo=Pycharm&style=popout-square"></a>
 </p>
 
 <h3 align="center"> 🧐 Tools 🧐 </h3>
@@ -26,6 +29,7 @@
 <a><img src="https://img.shields.io/badge/-Material%20UI-3294a8.svg?logo=Material%20UI&style=popout-square"></a>
 <a><img src="https://img.shields.io/badge/-Bootstrap-3294a8.svg?logo=Bootstrap&style=popout-square"></a>
 <a><img src="https://img.shields.io/badge/-Webpack-3294a8.svg?logo=Webpack&style=popout-square"></a>
+<a><img src="https://img.shields.io/badge/-Heroku-3294a8.svg?logo=Heroku&style=popout-square"></a>
 </p>
 
 
